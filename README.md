@@ -1,5 +1,3 @@
-Here is a comprehensive `README.md` file for your repository. It covers what the script does, how to configure it, and a step-by-step guide to automating it with Windows Task Scheduler.
-
 ---
 
 # SCADA Database Cleanup & Optimization Script
