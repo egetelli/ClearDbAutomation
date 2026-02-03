@@ -3,7 +3,7 @@ This repository contains a Python maintenance script designed to optimize Postgr
 
 # SCADA Database Cleanup & Optimization Script
 
-This repository contains a Python maintenance script designed to optimize PostgreSQL tables used in a SCADA system. It reduces database size by downsampling high-frequency data and removing duplicate records, ensuring only one data point per minute per signal is retained for historical accuracy.
+
 
 ## 🚀 Features
 
